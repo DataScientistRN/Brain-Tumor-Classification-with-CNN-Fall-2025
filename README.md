@@ -1,6 +1,6 @@
-# CSCI E-89 Deep Learning: Multi-Class Brain Tumor Classification Using Convolutional Neural Networks¶
+# CSCI E-89 Deep Learning: Multi-Class Brain Tumor Classification Using Convolutional Neural Networks
 
-Cristina Kennedy, RN, BSN¶
+Cristina Kennedy, RN, BSN
 
 December, 2025
 
